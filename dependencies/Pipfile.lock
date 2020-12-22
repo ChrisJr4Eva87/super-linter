@@ -69,17 +69,17 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:75326882aa68e003452dcd8f0fcee0339ff63624115927fb71a6b5d15535ace5",
-                "sha256:bbe380ee554cfc998528320578ca2ec152aea3243dd8e82119bc644deb49ec6b"
+                "sha256:0d84e86ee02e32c86d30e35de9680303a480873dd2e99dcdc83486b92dffb03c",
+                "sha256:95f010aeaa45248cc394b2d27949a8484fe23e723a57d4329e2df7b188efaca0"
             ],
-            "version": "==1.16.40"
+            "version": "==1.16.41"
         },
         "botocore": {
             "hashes": [
-                "sha256:bb0e4cc5e364785ff8fc380d74ad57dec9857a4093608633616d0acfe84caadc",
-                "sha256:ebfa880ac8cb8132dc6657902bf546f52cf2c43278570f60c8f8a0f894556555"
+                "sha256:54a8a59497a83ba2d89fb94f86dd07b622d7b5f1d6e9925222ebbc45eb0d63ac",
+                "sha256:64ce3d43c1313b85714ca7b276e4da400a3666c9d25fc93e64befcb5e9d4c8ed"
             ],
-            "version": "==1.19.40"
+            "version": "==1.19.41"
         },
         "certifi": {
             "hashes": [
@@ -288,10 +288,10 @@
         },
         "nbformat": {
             "hashes": [
-                "sha256:2c53fe0b84b4c7627f3162622f57359e008fe57e1a5816e2e594dd80e16e42bd",
-                "sha256:af4d0220f0386efb67a896babb25c00e47ce65b11e36098b7e492e9f96e48b0a"
+                "sha256:5a7de5b3872598382491e474501dbe662cd163b813a8d96b43ce5fcb9b8fc1b0",
+                "sha256:889949d43cb606aa02bf0d8d2d36742cec5c0e1743443351ec26f273691b75d1"
             ],
-            "version": "==5.0.9b0"
+            "version": "==5.0.9b1"
         },
         "networkx": {
             "hashes": [
@@ -500,10 +500,10 @@
         },
         "snakemake": {
             "hashes": [
-                "sha256:c4264da7462839fc21a724f23b366efafaf2ecbcf6a5f9287ae84ae871b66683"
+                "sha256:ac4bb3bf330378f6207b645eba3637a5f1d8074be93c4ec4079782b2025d1ee4"
             ],
             "index": "pypi",
-            "version": "==5.30.2"
+            "version": "==5.31.1"
         },
         "toml": {
             "hashes": [
