@@ -15,7 +15,7 @@ FROM yoheimuta/protolint:v0.30.0 as protolint
 FROM koalaman/shellcheck:v0.7.1 as shellcheck
 FROM wata727/tflint:0.25.0 as tflint
 FROM alpine/terragrunt:0.14.7 as terragrunt
-FROM mvdan/shfmt:v3.2.2 as shfmt
+FROM mvdan/shfmt:v3.2.4 as shfmt
 FROM accurics/terrascan:d182f1c as terrascan
 FROM hadolint/hadolint:latest-alpine as dockerfile-lint
 FROM ghcr.io/assignuser/lintr-lib:0.2.0 as lintr-lib
